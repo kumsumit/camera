@@ -34,12 +34,12 @@ dependencies:
     sdk: flutter
   flutter_plugin_android_lifecycle:
     git: https://github.com/kumsumit/flutter_plugin_android_lifecycle.git
-  quiver: ^3.0.0
+  quiver: ^3.2.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: 5.4.1
+  mockito: ^5.4.2
   plugin_platform_interface: 
     git: https://github.com/kumsumit/plugin_platform_interface.git
   video_player: 
