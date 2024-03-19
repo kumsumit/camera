@@ -1,10 +1,8 @@
 name: camera
 publish_to: none
-description: A Flutter plugin for controlling the camera. Supports previewing
-  the camera feed, capturing images and video, and streaming image buffers to
-  Dart.
+description: A Flutter plugin for controlling the camera. Supports previewing the camera feed, capturing images and video, and streaming image buffers to Dart.
 repository: https://github.com/flutter/packages/tree/main/packages/camera/camera
-issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+camera%22
+# issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+camera%22
 version: 0.10.5+9
 
 environment:
