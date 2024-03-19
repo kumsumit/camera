@@ -5,11 +5,11 @@ description: A Flutter plugin for controlling the camera. Supports previewing
   Dart.
 repository: https://github.com/flutter/packages/tree/main/packages/camera/camera
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+camera%22
-version: 0.10.5+5
+version: 0.10.5+9
 
 environment:
-  sdk: ">=3.2.0 <4.0.0"
-  flutter: ">=3.16.0"
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=3.19.3"
 
 flutter:
   plugin:
@@ -39,7 +39,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.4.2
+  mockito: ^5.4.4
   plugin_platform_interface: 
     git: https://github.com/kumsumit/plugin_platform_interface.git
   video_player: 

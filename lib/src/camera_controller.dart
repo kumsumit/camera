@@ -19,7 +19,7 @@ import '../camera.dart';
 // TODO(stuartmorgan): Fix this naming the next time there's a breaking change
 // to this package.
 // ignore: camel_case_types
-typedef onLatestImageAvailable = Function(CameraImage image);
+typedef onLatestImageAvailable = void Function(CameraImage image);
 
 /// Completes with a list of available cameras.
 ///
@@ -530,7 +530,7 @@ class CameraController extends ValueNotifier<CameraValue> {
       );
     }
 
-    Function(CameraImageData image)? streamCallback;
+    void Function(CameraImageData image)? streamCallback;
     if (onAvailable != null) {
       streamCallback = (CameraImageData imageData) {
         onAvailable(CameraImage.fromPlatformInterface(imageData));
@@ -923,7 +923,7 @@ class Optional<T> extends IterableBase<T> {
     if (_value == null) {
       throw StateError('value called on absent Optional.');
     }
-    return _value!;
+    return _value;
   }
 
   /// Executes a function if the Optional value is present.
