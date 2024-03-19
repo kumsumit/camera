@@ -153,9 +153,9 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-cb008728f8cd074baa92c09bce4f18456eacf5ff/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-813cf7ce56894bf7f2dae5190f6ddc01df691140/",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_test",
@@ -327,7 +327,7 @@
     },
     {
       "name": "video_player",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player-0459856d8346eac59b8afc8dea7338719780e900/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player-dc03666eeeff98b7cf08a2352814fb581c5e7ae9/",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -386,7 +386,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-19T15:35:16.398536Z",
+  "generated": "2024-03-19T17:23:11.469737Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }

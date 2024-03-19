@@ -275,7 +275,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: cb008728f8cd074baa92c09bce4f18456eacf5ff
+      resolved-ref: "813cf7ce56894bf7f2dae5190f6ddc01df691140"
       url: "https://github.com/kumsumit/flutter_plugin_android_lifecycle.git"
     source: git
     version: "2.0.17"
@@ -456,7 +456,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b1a281afa47ef5b93baba6c53afcb6ec591f6a9b
+      resolved-ref: "464067f1292d84797110982aec8a5c694bf42ec2"
       url: "https://github.com/kumsumit/path_provider.git"
     source: git
     version: "2.1.2"
@@ -465,7 +465,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "13c5e4637a28f86fe9d8cf69d8ae88f9cfb56d77"
+      resolved-ref: "075dfaa8879cb5226a8876ae2b4c3cd91c0da24f"
       url: "https://github.com/kumsumit/path_provider_android.git"
     source: git
     version: "2.2.2"
@@ -474,7 +474,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1ab38321e254e87e51f1a1a8ca23f6f3b57f0d03"
+      resolved-ref: "0c32fae60f23a0568754137db1bab13a8f532ba9"
       url: "https://github.com/kumsumit/path_provider_foundation.git"
     source: git
     version: "2.3.2"
@@ -492,7 +492,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b8a8154cd6ee2c9e513412f0fa47728fe51ef323
+      resolved-ref: cef5a990738087886b5ad8ecc6a2236757a7edb9
       url: "https://github.com/kumsumit/path_provider_platform_interface.git"
     source: git
     version: "2.1.2"
@@ -501,7 +501,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "64abeda415f51397de76b2b27158c0beaf069269"
+      resolved-ref: c867dc01fd2fa9479c18002192a58af6f9b8a9df
       url: "https://github.com/kumsumit/path_provider_windows.git"
     source: git
     version: "2.2.1"
@@ -676,7 +676,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "0459856d8346eac59b8afc8dea7338719780e900"
+      resolved-ref: dc03666eeeff98b7cf08a2352814fb581c5e7ae9
       url: "https://github.com/kumsumit/video_player.git"
     source: git
     version: "2.8.3"
