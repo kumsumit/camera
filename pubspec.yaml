@@ -13,7 +13,7 @@ flutter:
   plugin:
     platforms:
       android:
-        default_package: camera_android
+        default_package: camera_android_camerax
       ios:
         default_package: camera_avfoundation
       web:

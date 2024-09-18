@@ -5,26 +5,31 @@ packages:
     dependency: transitive
     description:
       name: _fe_analyzer_shared
-      sha256: "0b2f2bd91ba804e53a61d757b986f89f1f9eaed5b11e4b2f5a2468d86d6c9fc7"
+      sha256: f256b0c0ba6c7577c15e2e4e114755640a875e885099367bf6e012b19314c834
       url: "https://pub.dev"
     source: hosted
-    version: "67.0.0"
+    version: "72.0.0"
+  _macros:
+    dependency: transitive
+    description: dart
+    source: sdk
+    version: "0.3.2"
   analyzer:
     dependency: transitive
     description:
       name: analyzer
-      sha256: "37577842a27e4338429a1cbc32679d508836510b056f1eedf0c8d20e39c1383d"
+      sha256: b652861553cd3990d8ed361f7979dc6d7053a9ac8843fa73820ab68ce5410139
       url: "https://pub.dev"
     source: hosted
-    version: "6.4.1"
+    version: "6.7.0"
   args:
     dependency: transitive
     description:
       name: args
-      sha256: eef6c46b622e0494a36c5a12d10d77fb4e855501a91c1b9ef9339326e58f0596
+      sha256: "7cf60b9f0cc88203c5a190b4cd62a99feea42759a7fa695010eb5de1c0b2252a"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.2"
+    version: "2.5.0"
   async:
     dependency: transitive
     description:
@@ -61,46 +66,46 @@ packages:
     dependency: transitive
     description:
       name: built_value
-      sha256: fedde275e0a6b798c3296963c5cd224e3e1b55d0e478d5b7e65e6b540f363a0e
+      sha256: c7913a9737ee4007efedaffc968c049fd0f3d0e49109e778edc10de9426005cb
       url: "https://pub.dev"
     source: hosted
-    version: "8.9.1"
+    version: "8.9.2"
   camera_android:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: d4ce43e078252209a4a7bda498b6e35d92bc90d3
+      resolved-ref: fb838235bd1abf61e22f6f223c412aa48348b949
       url: "https://github.com/kumsumit/camera_android.git"
     source: git
-    version: "0.10.8+16"
+    version: "0.10.9+11"
   camera_avfoundation:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "56ea45a426f07b05926c58dbf3265e41bf8f928f"
+      resolved-ref: ea403b84271eb24d38c01342aa04a356c4b29340
       url: "https://github.com/kumsumit/camera_avfoundation.git"
     source: git
-    version: "0.9.14+1"
+    version: "0.9.17+3"
   camera_platform_interface:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f3c212e7ddc562b6e8f5b17f26307f848871377f
+      resolved-ref: ac9449b5a5075213ea2aaccea88cc9fd85859110
       url: "https://github.com/kumsumit/camera_platform_interface.git"
     source: git
-    version: "2.7.4"
+    version: "2.8.0"
   camera_web:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "53fe045f1809c9329482e62b9039beab77fed1a0"
+      resolved-ref: "598df61a49b4b42de2b3126f4ad2fc9983cac9b1"
       url: "https://github.com/kumsumit/camera_web.git"
     source: git
-    version: "0.3.2+4"
+    version: "0.3.5"
   characters:
     dependency: transitive
     description:
@@ -145,18 +150,18 @@ packages:
     dependency: transitive
     description:
       name: cross_file
-      sha256: "55d7b444feb71301ef6b8838dbc1ae02e63dd48c8773f3810ff53bb1e2945b32"
+      sha256: "7caf6a750a0c04effbb52a676dce9a4a592e10ad35c34d6d2d0e4811160d5670"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.4+1"
+    version: "0.3.4+2"
   crypto:
     dependency: transitive
     description:
       name: crypto
-      sha256: ff625774173754681d66daaf4a448684fb04b78f902da9cb3d308c19cc5e8bab
+      sha256: ec30d999af904f33454ba22ed9a86162b35e52b44ac4807d1d93c288041d7d27
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.3"
+    version: "3.0.5"
   csslib:
     dependency: transitive
     description:
@@ -169,10 +174,10 @@ packages:
     dependency: transitive
     description:
       name: dart_style
-      sha256: "99e066ce75c89d6b29903d788a7bb9369cf754f7b24bf70bf4b6d6d6b26853b9"
+      sha256: "7856d364b589d1f08986e140938578ed36ed948581fbc3bc9aef1805039ac5ab"
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.6"
+    version: "2.3.7"
   fake_async:
     dependency: transitive
     description:
@@ -207,7 +212,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "813cf7ce56894bf7f2dae5190f6ddc01df691140"
+      resolved-ref: a683d42201cb5d419c7df0c29c745d2f25efec39
       url: "https://github.com/kumsumit/flutter_plugin_android_lifecycle.git"
     source: git
     version: "2.0.17"
@@ -241,26 +246,26 @@ packages:
     dependency: transitive
     description:
       name: leak_tracker
-      sha256: "78eb209deea09858f5269f5a5b02be4049535f568c07b275096836f01ea323fa"
+      sha256: "3f87a60e8c63aecc975dda1ceedbc8f24de75f09e4856ea27daf8958f2f0ce05"
       url: "https://pub.dev"
     source: hosted
-    version: "10.0.0"
+    version: "10.0.5"
   leak_tracker_flutter_testing:
     dependency: transitive
     description:
       name: leak_tracker_flutter_testing
-      sha256: b46c5e37c19120a8a01918cfaf293547f47269f7cb4b0058f21531c2465d6ef0
+      sha256: "932549fb305594d82d7183ecd9fa93463e9914e1b67cacc34bc40906594a1806"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.1"
+    version: "3.0.5"
   leak_tracker_testing:
     dependency: transitive
     description:
       name: leak_tracker_testing
-      sha256: a597f72a664dbd293f3bfc51f9ba69816f84dcd403cdac7066cb3f6003f3ab47
+      sha256: "6ba465d5d76e67ddf503e1161d1f4a6bc42306f9d66ca1e8f079a47290fb06d3"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.1"
+    version: "3.0.1"
   logging:
     dependency: transitive
     description:
@@ -269,6 +274,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  macros:
+    dependency: transitive
+    description:
+      name: macros
+      sha256: "0acaed5d6b7eab89f63350bccd82119e6c602df0f391260d0e32b5e23db79536"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.2-main.4"
   matcher:
     dependency: transitive
     description:
@@ -281,18 +294,18 @@ packages:
     dependency: transitive
     description:
       name: material_color_utilities
-      sha256: "0e0a020085b65b6083975e499759762399b4475f766c21668c4ecca34ea74e5a"
+      sha256: f7142bb1154231d7ea5f96bc7bde4bda2a0945d2806bb11670e30b850d56bdec
       url: "https://pub.dev"
     source: hosted
-    version: "0.8.0"
+    version: "0.11.1"
   meta:
     dependency: transitive
     description:
       name: meta
-      sha256: d584fa6707a52763a52446f02cc621b077888fb63b93bbcb1143a7be5a0c0c04
+      sha256: bdb68674043280c3428e9ec998512fb681678676b3c54e773629ffe74419f8c7
       url: "https://pub.dev"
     source: hosted
-    version: "1.11.0"
+    version: "1.15.0"
   mockito:
     dependency: "direct dev"
     description:
@@ -338,10 +351,10 @@ packages:
     dependency: "direct main"
     description:
       name: quiver
-      sha256: b1c1ac5ce6688d77f65f3375a9abb9319b3cb32486bdc7a1e0fdf004d7ba4e47
+      sha256: ea0b925899e64ecdfbf9c7becb60d5b50e706ade44a85b2363be2a22d88117d2
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.1"
+    version: "3.2.2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -407,10 +420,10 @@ packages:
     dependency: transitive
     description:
       name: test_api
-      sha256: "5c2f730018264d276c20e4f1503fd1308dfbbae39ec8ee63c5236311ac06954b"
+      sha256: "5b8a98dafc4d5c4c9c72d8b31ab2b23fc13422348d2997120294d3bac86b4ddb"
       url: "https://pub.dev"
     source: hosted
-    version: "0.6.1"
+    version: "0.7.2"
   typed_data:
     dependency: transitive
     description:
@@ -432,28 +445,28 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: dc03666eeeff98b7cf08a2352814fb581c5e7ae9
+      resolved-ref: "914bb448dd9dc099fb13916b601ba96c6736a8c0"
       url: "https://github.com/kumsumit/video_player.git"
     source: git
-    version: "2.8.3"
+    version: "2.8.6"
   video_player_android:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1fab53aef71d77fbb52f6631d371f41a0add0925"
+      resolved-ref: ff0b4192f4a406b46adf12c9c27fb71a26d5e188
       url: "https://github.com/kumsumit/video_player_android.git"
     source: git
-    version: "2.4.12"
+    version: "2.4.13"
   video_player_avfoundation:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: de3d3ee8511a4e1e1940f41178fbea2d7c2f8589
+      resolved-ref: e59a40acfd8eb69d485712670ccf127c7b52f7fa
       url: "https://github.com/kumsumit/video_player_avfoundation.git"
     source: git
-    version: "2.5.6"
+    version: "2.5.7"
   video_player_platform_interface:
     dependency: transitive
     description:
@@ -468,7 +481,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40"
+      resolved-ref: "9720ea944dd4aca03098c07a3f9fb31b86b81f08"
       url: "https://github.com/kumsumit/video_player_web.git"
     source: git
     version: "2.3.0"
@@ -476,10 +489,10 @@ packages:
     dependency: transitive
     description:
       name: vm_service
-      sha256: b3d56ff4341b8f182b96aceb2fa20e3dcb336b9f867bc0eafc0de10f1048e957
+      sha256: "5c5f338a667b4c644744b661f309fb8080bb94b18a7e91ef1dbd343bed00ed6d"
       url: "https://pub.dev"
     source: hosted
-    version: "13.0.0"
+    version: "14.2.5"
   watcher:
     dependency: transitive
     description:
@@ -505,5 +518,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.3.1 <4.0.0"
-  flutter: ">=3.19.3"
+  dart: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
