@@ -1,16 +1,16 @@
 # This is a generated file; do not edit or check into version control.
 camera=/home/sumit/StudioProjects/packages/packages/camera/camera/
-camera_android=/home/sumit/.pub-cache/git/camera_android-fb838235bd1abf61e22f6f223c412aa48348b949/
-camera_avfoundation=/home/sumit/.pub-cache/git/camera_avfoundation-ea403b84271eb24d38c01342aa04a356c4b29340/
+camera_android=/home/sumit/.pub-cache/git/camera_android-2f28af673f53213bae6abdf3d45150bdd169edf4/
+camera_avfoundation=/home/sumit/.pub-cache/git/camera_avfoundation-5b4b73afc330c9a47447340cb3531c2f5c81d85e/
 camera_web=/home/sumit/StudioProjects/packages/packages/camera/camera_web/
 flutter_plugin_android_lifecycle=/home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-a683d42201cb5d419c7df0c29c745d2f25efec39/
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
-path_provider=/home/sumit/.pub-cache/git/path_provider-464067f1292d84797110982aec8a5c694bf42ec2/
-path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-075dfaa8879cb5226a8876ae2b4c3cd91c0da24f/
-path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-0c32fae60f23a0568754137db1bab13a8f532ba9/
-path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-150d801243a2f75e2f3b306187d0ba2e3bc03484/
-path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-c867dc01fd2fa9479c18002192a58af6f9b8a9df/
-video_player=/home/sumit/.pub-cache/git/video_player-914bb448dd9dc099fb13916b601ba96c6736a8c0/
-video_player_android=/home/sumit/.pub-cache/git/video_player_android-ff0b4192f4a406b46adf12c9c27fb71a26d5e188/
-video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-e59a40acfd8eb69d485712670ccf127c7b52f7fa/
-video_player_web=/home/sumit/.pub-cache/git/video_player_web-9720ea944dd4aca03098c07a3f9fb31b86b81f08/
+path_provider=/home/sumit/.pub-cache/git/path_provider-f8058fee027daef389cd229a12fee9a7ede4b59e/
+path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-3f6b159b87ea1a43abe565cc69a4112bc9de7056/
+path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-7df635a13da8580574f4ac68a842cb1d4fdf9be3/
+path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-0a64000e5851c4f31030032b48869bd9111bb580/
+path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-1bddd64796c9f02e23663a49ec9d3b3f62504448/
+video_player=/home/sumit/.pub-cache/git/video_player-7a83a976f5b283948f9cdbfd90d4035368bd8586/
+video_player_android=/home/sumit/.pub-cache/git/video_player_android-5ace8e34b504c1ea7d609d415c5fdeece0cd9575/
+video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-7780dc93ed00057cadc48b025f5609cc5f885aca/
+video_player_web=/home/sumit/.pub-cache/git/video_player_web-94fc66ecfa4a36381e3613801d7aa2677c103460/
