@@ -20,8 +20,8 @@ flutter:
         default_package: camera_web
 
 dependencies:
-  camera_android:
-    git: https://github.com/kumsumit/camera_android.git 
+  camera_android_camerax:
+    git: https://github.com/kumsumit/camera_android_camerax.git 
   camera_avfoundation: 
     git: https://github.com/kumsumit/camera_avfoundation.git
   camera_platform_interface: 
